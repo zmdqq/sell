@@ -5,14 +5,14 @@
 # express_mock文件夹放置的是模拟的后台数据
 
 使用方法：
- npm install
+ # npm install
 
- node app
+ # node app
 
  sell文件夹放置的是sell项目的代码
 
  使用方法：
- 
+
  下载依赖的包
   # npm install
 
